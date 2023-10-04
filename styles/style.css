@@ -1,0 +1,49 @@
+body {
+    background: #222;
+    color:#eadb79;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header{
+    displaY:flex;
+    justify-content: center;
+}
+.subtitulo{
+    displaY:flex;
+    justify-content: center;
+    color:#fff;
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+}
+
+table {
+    border: 1px dashed #999;
+}
+
+
+th{
+    color:#e5e8ff;
+    background: rgb(66, 67, 72);
+    height: 34px;
+    padding: 0px 10px;
+}
+
+tr {
+    background:  #22232e;
+}
+
+td {
+    border: 1px solid #555;
+}
+
+td{
+    color: aqua;
+}
+
+h1,h2,h3,h4,h5,h6{
+    margin:0px;
+    padding:0px;
+}
